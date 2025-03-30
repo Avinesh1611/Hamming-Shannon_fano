@@ -61,12 +61,12 @@ print(f"Variance is : {var}")
 
 # calculations:
 
-![WhatsApp Image 2025-03-30 at 13 10 38_2ccfdf47](https://github.com/user-attachments/assets/6c212589-c9d1-4cbb-babe-baa91e18e9e5)
-![WhatsApp Image 2025-03-30 at 13 10 38_b4cd39c7](https://github.com/user-attachments/assets/976c8527-54a5-4a41-a31c-c82df587fe7f)
-![WhatsApp Image 2025-03-30 at 13 10 39_05b00b96](https://github.com/user-attachments/assets/ce6c9069-8bbf-4c4c-a95f-4bca4641a67b)
-![WhatsApp Image 2025-03-30 at 13 10 39_8dbec3a7](https://github.com/user-attachments/assets/a1ec96c2-7aec-4087-99e0-2bf22f4de6c2)
-![WhatsApp Image 2025-03-30 at 13 10 39_af8a287a](https://github.com/user-attachments/assets/9bab40ca-be99-40b0-8070-74eeb0c47c4c)
-![WhatsApp Image 2025-03-30 at 13 10 39_c2aa3361](https://github.com/user-attachments/assets/f2ebb0f2-419f-4f86-8225-1afea748b9e5)
+![WhatsApp Image 2025-03-30 at 20 24 39_b57f8f0b](https://github.com/user-attachments/assets/c9bb757a-6137-4b5c-8a63-c9264f9be2ce)
+
+![WhatsApp Image 2025-03-30 at 20 24 40_15bf69f0](https://github.com/user-attachments/assets/2527093c-1d8b-4568-9b7b-e78dd4cc76b4)
+
+![WhatsApp Image 2025-03-30 at 20 24 40_e2641f68](https://github.com/user-attachments/assets/42938f3d-deff-4ebb-9910-04160221ce99)
+
 
 
 
